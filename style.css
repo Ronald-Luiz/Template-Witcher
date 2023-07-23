@@ -9,7 +9,7 @@
 body {
     border: solid purple;
     height: 100vh;
-    background-image: url("/assets/the\ witcher\ hell.png")
+    background-image: url("./assets/the\ witcher\ hell.png")
 }
 
 header {
@@ -59,7 +59,7 @@ main section {
     width: 60vh;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("/assets/the\ witcher\ kavil2.png");
+    background-image: url("./assets/the\ witcher\ kavil2.png");
 }
 
 .botao {
